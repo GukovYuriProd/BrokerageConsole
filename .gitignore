@@ -1,0 +1,4 @@
+spring-shell.log
+src/main/resources/application.properties
+target/
+.idea/
