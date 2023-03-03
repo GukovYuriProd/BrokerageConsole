@@ -93,7 +93,6 @@ public class CheckCommand implements Command{
         for (BankPosition bankPosition : QuotesList) {
             System.out.println(bankPosition.toString());
         }
-        //тут сериализуем наш лист объектов и закидываем в файлик
     }
 
     @Override

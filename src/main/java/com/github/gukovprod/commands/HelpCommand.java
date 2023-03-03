@@ -32,6 +32,7 @@ public class HelpCommand implements Command {
 
     @Override
     public String getShortDescription() {
+        //TODO Sent full list of commands
         return "Prints a list of all possible commands";
     }
 }
